@@ -1,0 +1,39 @@
+{
+ "ipc_base": "2026-09",
+ "precio_kg_real_ultimo_mes": {
+  "mes": "2026-10",
+  "nominal": 16960.258064516132,
+  "real": 16960.258064516132
+ },
+ "precio_kg_real_max": {
+  "ano": 2025,
+  "valor": 24574.03827471702
+ },
+ "precio_kg_real_min": {
+  "ano": 2013,
+  "valor": 7589.133703946471
+ },
+ "precio_kg_real_promedio_1996_2025": 12158.595888506337,
+ "ultimo_ano_completo": 2025,
+ "kg_verde_ultimo": 820664938.9080899,
+ "valor_real_ultimo": 25085105295423.617,
+ "valor_real_max": {
+  "ano": 2025,
+  "valor": 25085105295423.617
+ },
+ "valor_real_min": {
+  "ano": 2013,
+  "valor": 6123391606305.29
+ },
+ "prod_max": {
+  "ano": 2019,
+  "kg": 885120000.0
+ },
+ "prod_min": {
+  "ano": 2012,
+  "kg": 464640000.0
+ },
+ "valor_real_acumulado_1996_2025": 320658120288494.3,
+ "municipios_productores": 642,
+ "top50_pct": 43.116171519409505
+}

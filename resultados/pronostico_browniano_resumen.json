@@ -1,0 +1,90 @@
+{
+ "modelo": "movimiento browniano geométrico",
+ "simulaciones": 10000,
+ "precio": {
+  "ultimo": 16960.26,
+  "deriva_mensual_log": 0.0011382150047244744,
+  "deriva_anual_pct": 1.375228459890887,
+  "volatilidad_mensual": 0.0728982669025111,
+  "volatilidad_anual_pct": 25.252700411773176
+ },
+ "produccion": {
+  "ultimos_12_meses_millones_kg": 753.5068765300001,
+  "deriva_mensual_log": 0.0003222711161929885,
+  "volatilidad_mensual": 0.02254191872158127
+ },
+ "validacion": {
+  "ea_precio_mbg": 18.7,
+  "ea_precio_ingenuo": 18.7,
+  "ea_prod_mbg": 8.5,
+  "ea_prod_ingenuo": 8.4,
+  "ea_precio_ar": 18.6,
+  "ea_prod_sarima": 8.6,
+  "cobertura_banda_80_precio": 0.8181818181818182
+ },
+ "cierre_2026": {
+  "precio_kg_real_promedio_ano": {
+   "p10": 17649.470233925404,
+   "p50": 17925.307433722915,
+   "p90": 18244.78278166689,
+   "media": 17936.21285792039
+  },
+  "precio_kg_real_diciembre": {
+   "p10": 14950.6062782231,
+   "p50": 16955.72131440464,
+   "p90": 19435.410704169393,
+   "media": 17093.45834729867
+  },
+  "produccion_millones_kg": {
+   "p10": 723.9707507885394,
+   "p50": 753.8017387148606,
+   "p90": 785.4927734880605,
+   "media": 754.4306635335885
+  },
+  "valor_real_billones": {
+   "p10": 16.07472122482959,
+   "p50": 16.755539120639774,
+   "p90": 17.543287225125077,
+   "media": 16.783627837328943
+  }
+ },
+ "ano_2027": {
+  "precio_kg_real_promedio_ano": {
+   "p10": 13651.206011666005,
+   "p50": 17137.155861635983,
+   "p90": 22045.934388533078,
+   "media": 17568.791554553278
+  },
+  "precio_kg_real_diciembre": {
+   "p10": 12272.712040618808,
+   "p50": 17251.195528676697,
+   "p90": 24772.893632059706,
+   "media": 17994.83224277051
+  },
+  "precio_kg_nominal_promedio_ano": {
+   "p10": 14214.318259647227,
+   "p50": 17844.063540928466,
+   "p90": 22955.329182060068,
+   "media": 18293.504206178604
+  },
+  "produccion_millones_kg": {
+   "p10": 679.8737764819839,
+   "p50": 757.2323533925821,
+   "p90": 843.5416515277446,
+   "media": 760.2048008722209
+  },
+  "valor_real_billones": {
+   "p10": 12.62363176412515,
+   "p50": 16.237665993435975,
+   "p90": 21.297404396048737,
+   "media": 16.69660902118261
+  },
+  "prob_precio_mayor_2025": 0.0326,
+  "prob_precio_mayor_promedio_historico": 0.9734,
+  "prob_precio_menor_promedio_historico": 0.0266,
+  "prob_valor_mayor_2025": 0.0191,
+  "prob_valor_mayor_2024": 0.2503,
+  "prob_valor_menor_15": 0.3448,
+  "prob_valor_mayor_max_pre2021": 0.8472
+ }
+}
